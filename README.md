@@ -1,3 +1,10 @@
+OS ORANGE PROBLEM ANALYSIS QUESTIONS
+
+
+
+
+
+
 Q5.1
 
 Checkout is used to switch between branches. This involves updating the .pes/HEAD file to point to the selected branch, then reading the commit hash from that branch. The corresponding tree is loaded and the working directory is updated to match it. The index is also updated accordingly.
