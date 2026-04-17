@@ -3,7 +3,7 @@
 // Commit object format (stored as text, one field per line):
 //
 //   tree <64-char-hex-hash>
-//   parent <64-char-hex-hash>        ← omitted for the first commit
+//   parent <64-char-hex-hash>       
 //   author <name> <unix-timestamp>
 //   committer <name> <unix-timestamp>
 //
